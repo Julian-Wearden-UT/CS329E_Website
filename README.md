@@ -20,5 +20,5 @@ Validated HTML pages and CSS were used to structure the overall foundation and d
 
 ##
 ###### This project was completed at UT Austin in the Spring of 2022 and approved for GitHub publishing by: 
-###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden • <a href="mailto:JoeySamfield@gmail.com">Max Samfield</a> • <a href="mailto:maxwellkret@gmail.com">Maxwell Kretschmer</a> • <a href="mailto:vlh546@utexas.edu">Vincent Hochstein</a>
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden</a> • <a href="mailto:JoeySamfield@gmail.com">Max Samfield</a> • <a href="mailto:maxwellkret@gmail.com">Maxwell Kretschmer</a> • <a href="mailto:vlh546@utexas.edu">Vincent Hochstein</a>
 
